@@ -1,0 +1,1 @@
+console.log('common.js',process.env.NODE_ENV)
